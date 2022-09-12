@@ -2,7 +2,7 @@
 
 ## Introduction
 
-> Tiny 20 lines of functional event emitter/pubsub.
+> Tiny 20 lines of functional type safe event emitter/pubsub.
 
 Comparing to other emitters, `create-emit` cares more about type safe.
 
